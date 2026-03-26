@@ -1,4 +1,4 @@
-# Hi there, I'm Avantika
+# Hi, I'm Avantika
 
 🎓 Student |  Data learning enthusisast |  Lifelong Learner  
 
