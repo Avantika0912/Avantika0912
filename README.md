@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Avantika
 
-<!--
-**Avantika0912/Avantika0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student |  Data learning enthusisast |  Lifelong Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- First-year CSE (Data science) student  
+- Interested in Data science, learning  
+- Learning Python & C++  
+- Currently exploring: Data learning   
+-  Goal: Become a top tier Data scientist  
+
+---
+
+##  Skills & Tools
+*Languages:*  
+Python | C++ 
+
+##  Current Focus
+- Studying Data science fundamentals 
+- Learning Data learning 
+- Building Projects  
+
+---
+
+##  Connect With Me
+-  LinkedIn: [https://www.linkedin.com/in/avantika-singh-006466395?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
+- email:- avantika.25mip10025@vitbhopal.ac.in
+
+---
+
+## Fun Fact
+I enjoy learning how data works.
+(https://github.com/Avantika0912/Avantika0912/edit/main/README.md)
+
+---
+
+⭐️ From [Palak](https://github.com/YOUR_USERNAME)
