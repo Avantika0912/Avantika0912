@@ -1,10 +1,10 @@
-# Hi there 👋 I'm Avantika
+# Hi there, I'm Avantika
 
 🎓 Student |  Data learning enthusisast |  Lifelong Learner  
 
 ---
 
-## 🌟 About Me
+## About Me
 - First-year CSE (Data science) student  
 - Interested in Data science, learning  
 - Learning Python & C++  
@@ -29,11 +29,7 @@ Python | C++
 - email:- avantika.25mip10025@vitbhopal.ac.in
 
 ---
-
-## Fun Fact
-I enjoy learning how data works.
-(https://github.com/Avantika0912/Avantika0912/edit/main/README.md)
+https://github.com/Avantika0912/Avantika0912/edit/main
 
 ---
 
-⭐️ From [Palak](https://github.com/YOUR_USERNAME)
